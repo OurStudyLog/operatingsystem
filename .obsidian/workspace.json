@@ -11,14 +11,6 @@
             "id": "e6c9a5796b7cab55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4cf5e659050a24f0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "회의/20231224.md",
@@ -26,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3522a2c13708e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "오늘의 스터디.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오늘의 스터디.md",
+                "file": "회의/20231224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오늘의 스터디.md",
+                "file": "회의/20231224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오늘의 스터디.md"
+                "file": "회의/20231224.md"
               }
             }
           }
@@ -170,7 +149,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3522a2c13708e88",
+  "active": "e6c9a5796b7cab55",
   "lastOpenFiles": [
     "README.md",
     "회의/20231224.md",
