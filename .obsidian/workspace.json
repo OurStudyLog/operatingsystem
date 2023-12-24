@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회의/20231224.md",
+                "file": "ch01/오늘의 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회의/20231224.md",
+                "file": "ch01/오늘의 스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회의/20231224.md",
+                "file": "ch01/오늘의 스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회의/20231224.md"
+                "file": "ch01/오늘의 스터디.md"
               }
             }
           }
@@ -151,9 +151,20 @@
   },
   "active": "e6c9a5796b7cab55",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-24 18.05.37.excalidraw.md",
+    "image/test.png",
     "README.md",
+    "ch01/오늘의 스터디.md",
+    "Excalidraw",
+    "image",
     "회의/20231224.md",
-    "오늘의 스터디.md",
+    "무제 파일.md",
+    "ch06",
+    "ch05",
+    "ch04",
+    "ch03",
+    "ch02",
+    "ch01",
     "회의"
   ]
 }
