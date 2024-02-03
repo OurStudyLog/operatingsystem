@@ -14,7 +14,8 @@
 | 김동욱 | 임선혁 | 이지현 | 김용재 |
 | ---- | ---- | ---- | ---- |
 | 스터디장 | 스터디원 | 스터디원 | 스터디원 |
-| [GitHub]() | [GitHub](https://github.com/ImSeon01) | [GitHub](https://github.com/Sleepingoff) | [GitHub]() |
+| [GitHub](https://github.com/atoonatoo) | [GitHub](https://github.com/ImSeon01) | [GitHub](https://github.com/Sleepingoff) | [GitHub](https://github.com/uzjaee) |
+|  |  |  |  |
 
 
 ### About Tools
