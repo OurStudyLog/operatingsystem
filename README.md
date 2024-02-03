@@ -19,6 +19,7 @@
 
 ### About Tools
 
+
 - 옵시디언 플러그인
 	- Obsidian Git
 	- Excalidraw
@@ -34,4 +35,5 @@
 	- ADD - 새로운 내용 추가한 경우
 	- UPDATAE - 기존 내용을 수정한 경우
 	- DELETE - 기존 내용을 삭제한 경우
+
 
